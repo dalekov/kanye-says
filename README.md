@@ -27,4 +27,4 @@ This is a simple Python GUI application that displays random quotes from Kanye W
 - The GUI is built using Tkinter, with a background image representing a message bubble, and a button to fetch new quotes.
 
 ## Screenshot
-![Alt text](https://ibb.co/yXyMCWT "Kanye's Wisdom")
+![Alt text]([https://ibb.co/yXyMCWT](https://www.imghippo.com/i/wi1x91728114785.png) "Kanye's Wisdom")
